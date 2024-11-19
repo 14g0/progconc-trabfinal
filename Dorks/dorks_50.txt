@@ -1,0 +1,50 @@
+access_key
+access_token
+admin_pass
+admin_user
+algolia_admin_key
+algolia_api_key
+amazon_secret_access_key
+ansible_vault_password
+api_key
+api_key_secret
+api_secret
+app_id
+app_key
+app_secret
+aws_access_key_id
+aws_secret_access_key
+authorizationToken
+client_secret
+database_password
+db_password
+db_username
+deploy_password
+docker_password
+encryption_key
+facebook_secret
+fb_secret
+filename:.bashrc password
+filename:.env DB_USERNAME NOT homestead
+filename:.git-credentials
+filename:.htpasswd
+filename:.npmrc _auth
+filename:.s3cfg
+github_api_key
+github_password
+github_token
+gitlab
+google_maps_api_key
+google_private_key
+google_secret
+heroku_api_key
+heroku_oauth_secret
+jwt_secret
+jwt_secret_key
+mailchimp_api_key
+mailgun_apikey
+mailgun_password
+mysql password
+npmrc _auth
+oauth_token
+private_key

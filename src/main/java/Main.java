@@ -10,18 +10,59 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("[INFO][Main] Iniciando o programa...");
 
+        String dorksFilePath = "Dorks/dorks_20.txt";
+        String tokensFilePath = "Tokens/tokens_1.txt";
+        int numberOfThreads = 10;
+
         try {
+
+            for (int i = 0; i < args.length; i++) {
+                switch (args[i]) {
+                    case "-d":
+                        if (i + 1 < args.length) {
+                            dorksFilePath = args[++i];
+                        } else {
+                            System.out.println("[ERROR] Caminho para o arquivo de dorks não especificado.");
+                            return;
+                        }
+                        break;
+                    case "-t":
+                        if (i + 1 < args.length) {
+                            tokensFilePath = args[++i];
+                        } else {
+                            System.out.println("[ERROR] Caminho para o arquivo de tokens não especificado.");
+                            return;
+                        }
+                        break;
+                    case "-n":
+                        if (i + 1 < args.length) {
+                            try {
+                                numberOfThreads = Integer.parseInt(args[++i]);
+                            } catch (NumberFormatException e) {
+                                System.out.println("[ERROR] Número de threads inválido.");
+                                return;
+                            }
+                        } else {
+                            System.out.println("[ERROR] Número de threads não especificado.");
+                            return;
+                        }
+                        break;
+                    default:
+                        System.out.println("[ERROR] Parâmetro desconhecido: " + args[i]);
+                        return;
+                }
+            }
+
             System.out.println("[INFO][Main] Lendo arquivo dorks.txt...");
-            List<String> dorkList = Files.readAllLines(Paths.get("dorks.txt"));
+            List<String> dorkList = Files.readAllLines(Paths.get(dorksFilePath));
             System.out.println("[INFO][Main] Dorks carregados: " + dorkList.size());
 
             System.out.println("[INFO][Main] Lendo arquivo tokens.txt...");
-            List<String> tokens = Files.readAllLines(Paths.get("tokens.txt"));
+            List<String> tokens = Files.readAllLines(Paths.get(tokensFilePath));
             System.out.println("[INFO][Main] Tokens carregados: " + tokens.size());
 
             CredentialManager credentialManager = new CredentialManager(tokens);
 
-            int numberOfThreads = 20;
             System.out.println("[INFO][Main] Criando ExecutorService com " + numberOfThreads + " threads...");
             ExecutorService executorService = Executors.newFixedThreadPool(numberOfThreads);
 
@@ -38,7 +79,11 @@ public class Main {
 
             long endTime = System.currentTimeMillis();
             System.out.println("[INFO][Main] Tarefas concluídas.");
-            System.out.println("[INFO][Main] Tempo de execução: " + (endTime - startTime) + "ms");
+            System.out.println("----------------------------------------");
+            System.out.println("Número de threads: " + numberOfThreads);
+            System.out.println("Número de dorks: " + dorkList.size());
+            System.out.println("Número de tokens: " + tokens.size());
+            System.out.println("Tempo de execução: " + (endTime - startTime) + "ms");
 
         } catch (IOException e) {
             System.err.println("[ERROR][Main] Erro ao ler arquivos: " + e.getMessage());
@@ -48,6 +93,5 @@ public class Main {
             e.printStackTrace();
         }
 
-        System.out.println("[INFO][Main] FIM.");
     }
 }
