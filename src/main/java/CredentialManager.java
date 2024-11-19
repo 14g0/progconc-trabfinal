@@ -1,20 +1,39 @@
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.Collectors;
 
 public class CredentialManager {
-    private List<String> tokens;
+    private List<Token> tokens;
     private AtomicInteger currentIndex = new AtomicInteger(0);
 
-    public CredentialManager(List<String> tokens) {
-        this.tokens = tokens;
-        System.out.println("[INFO] CredentialManager inicializado com " + tokens.size() + " tokens.");
+    public CredentialManager(List<String> tokenValues) {
+        this.tokens = tokenValues.stream().map(Token::new).collect(Collectors.toList());
     }
 
-    public String getNextToken() {
+    public synchronized Token getNextAvailableToken() throws InterruptedException {
+
         String threadName = Thread.currentThread().getName();
-        int index = currentIndex.getAndUpdate(i -> (i + 1) % tokens.size());
-        String token = tokens.get(index);
-        System.out.println("[INFO][" + threadName + "] Usando Token: " + index);
-        return token;
+        int startIndex = currentIndex.get();
+        int index = startIndex;
+
+        do {
+            Token token = tokens.get(index);
+            System.out.println("[INFO][" + threadName + "] Usando Token: " + index);
+
+            if (!token.isRateLimited()) {
+                currentIndex.set((index + 1) % tokens.size());
+                return token;
+            }
+            index = (index + 1) % tokens.size();
+            if (index == startIndex) {
+                long waitTime = tokens.stream()
+                        .mapToLong(t -> t.getResetTime() - (System.currentTimeMillis() / 1000))
+                        .filter(t -> t > 0)
+                        .min().orElse(60);
+                System.out.println("[WARNING][" + threadName + "] Todos os tokens estão rate-limited. Esperando "
+                        + waitTime + " segundos...");
+                Thread.sleep(waitTime * 1000);
+            }
+        } while (true);
     }
 }

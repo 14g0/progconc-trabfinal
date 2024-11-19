@@ -23,7 +23,7 @@ public class GitHubSearchTask implements Runnable {
         String threadName = Thread.currentThread().getName();
         System.out.println("[INFO][" + threadName + "] Iniciando task para a dork: " + dork);
         try {
-            String token = credentialManager.getNextToken();
+            Token token = credentialManager.getNextAvailableToken();
             performSearch(dork, token);
         } catch (Exception e) {
             System.err.println("[ERROR][" + threadName + "] Erro na dork: " + dork);
@@ -31,7 +31,7 @@ public class GitHubSearchTask implements Runnable {
         }
     }
 
-    private void performSearch(String dork, String token) throws IOException, InterruptedException {
+    private void performSearch(String dork, Token token) throws IOException, InterruptedException {
         String threadName = Thread.currentThread().getName();
         String query = URLEncoder.encode(dork, StandardCharsets.UTF_8);
         String url = "https://api.github.com/search/code?q=" + query;
@@ -40,7 +40,7 @@ public class GitHubSearchTask implements Runnable {
 
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(url))
-                .header("Authorization", "token " + token)
+                .header("Authorization", "token " + token.getValue())
                 .header("Accept", "application/vnd.github.v3.text-match+json")
                 .timeout(Duration.ofSeconds(30))
                 .build();
@@ -49,19 +49,26 @@ public class GitHubSearchTask implements Runnable {
         HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
 
         System.out.println("[INFO][" + threadName + "] Código de resposta: " + response.statusCode());
+        updateTokenRateLimit(token, response.headers());
 
         if (response.statusCode() == 200) {
             System.out.println("[INFO][" + threadName + "] Resposta 200 sucesso");
             parseAndSaveResults(response.body(), dork);
         } else if (response.statusCode() == 403) {
-            System.out.println(
-                    "[WARNING][" + threadName + "] Limite de requisições. Esperando 60s...");
-            Thread.sleep(60000);
-            System.out.println("[INFO][" + threadName + "] Tentando novamente para a dork: " + dork);
-            performSearch(dork, token);
+            if (isRateLimitExceeded(response)) {
+                System.out.println(
+                        "[WARNING][" + threadName + "] Limite de requisições. Trocando Token...");
+
+                token.setRemainingRequests(0);
+                token.setResetTime(getRateLimitResetTime(response.headers()));
+                Token newToken = credentialManager.getNextAvailableToken();
+                performSearch(dork, newToken);
+            } else {
+                System.out.println("[ERROR][" + threadName + "] Acesso negado ou erro na requisição. Código HTTP:"
+                        + response.statusCode());
+            }
         } else {
-            System.err.println("[ERROR][" + threadName + "] Falha na request: " + dork
-                    + ". Código: " + response.statusCode());
+            System.out.println("Erro na requisição: " + response.statusCode());
         }
     }
 
@@ -111,4 +118,21 @@ public class GitHubSearchTask implements Runnable {
             throw e;
         }
     }
+
+    private void updateTokenRateLimit(Token token, HttpHeaders headers) {
+        int remaining = headers.firstValue("X-RateLimit-Remaining").map(Integer::parseInt).orElse(0);
+        long reset = headers.firstValue("X-RateLimit-Reset").map(Long::parseLong).orElse(0L);
+
+        token.setRemainingRequests(remaining);
+        token.setResetTime(reset);
+    }
+
+    private boolean isRateLimitExceeded(HttpResponse<?> response) {
+        return response.headers().firstValue("X-RateLimit-Remaining").orElse("0").equals("0");
+    }
+
+    private long getRateLimitResetTime(HttpHeaders headers) {
+        return headers.firstValue("X-RateLimit-Reset").map(Long::parseLong).orElse(0L);
+    }
+
 }
