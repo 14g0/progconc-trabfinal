@@ -1,0 +1,80 @@
+URL: https://github.com/mas-bandwidth/yojimbo/blob/a163cf2e4490bdf1448279e3b3c972945ea2c3d0/USAGE.md
+Snippet:
+```cpp
+static const uint8_t DEFAULT_PRIVATE_KEY[yojimbo::KeyBytes] = { 0 };
+static const int MAX_PLAYERS = 64;
+--------------------------------------------------
+URL: https://github.com/RMerl/asuswrt-merlin.ng/blob/c1e566bdea37a4cd01826abadb06481144ad8fa5/release/src/router/nettle/NEWS
+Snippet:
+	* Invalid private RSA keys, with an even modulo, are now
+	  rejected by rsa_private_key_prepare. (Earlier versions
+	  allowed such keys, even if results of using them were bogus).
+--------------------------------------------------
+URL: https://github.com/Unitech/gridcontrol/blob/b3f5cc27c5fb24df010133cc34ba101d1561c9e0/TODO.md
+Snippet:
+- [NOK] grid-cli $ grid status -> print computing powert (CPU usage vary)
+- [X] Integrate multissh with CLI (multissh)
+- [X] Modularize multi ssh blessed based capability
+- [X] Keymetrics integration : grid install keymetrics <private_key> <public_key>
+------> Keymetrics access: grid keymetrics access
+------> Change namespace: grid namespace <new:namespace>
+- [X] Socket that are not identified (not sent 'identify' data) can break stuff (.getPeers return all sockets)
+--------------------------------------------------
+URL: https://github.com/infochimps-labs/ironfan/blob/5a30f94eea9dcc95304d2cd19dff5ef19b5babbe/ELB.md
+Snippet:
+          certificate       IO.read('snakeoil.crt')
+          private_key       IO.read('snakeoil.key')
+          certificate_chain IO.read('snakeoil.crt.bundle') # optional
+--------------------------------------------------
+URL: https://github.com/tianmingyun/MasterBitcoin2CN/blob/4dfc1564b68a48004cb317281352b55f60810c9a/ch04.md
+Snippet:
+while not valid_private_key:
+    private_key = bitcoin.random_key()
+    decoded_private_key = bitcoin.decode_privkey(private_key, 'hex')
+--------------------------------------------------
+URL: https://github.com/lorin/ansible-quickref/blob/5eee0e129e6f4eb130641493a12ca8571d556da1/ec2.rst
+Snippet:
+===================  =======================================================================
+Parameter            Description
+===================  =======================================================================
+key.fingerprint      SSH public key fingerprint
+key.name             SSH keypair name
+key.private_key      SSH private key string (only if creating new key)
+===================  =======================================================================
+--------------------------------------------------
+URL: https://github.com/writeas/htmlhouse/blob/31a919f8b7fd000fbb1d8e91bad9a62313045852/INSTALL
+Snippet:
+   export DB_USER=dbuser
+   export DB_PASSWORD=pass
+   export DB_DB=htmlhouse
+   export PRIVATE_KEY=keys/prod
+   export PUBLIC_KEY=keys/prod.pub
+   export PORT=8080
+   ./htmlhouse -h="http://localhost:8080"
+--------------------------------------------------
+URL: https://github.com/r-lib/httr/blob/df11e216f5e1a30f1bc8df8118e7cd983d9066f9/NEWS.md
+Snippet:
+
+## OAuth
+
+* `oauth1.0_token()` gains RSA-SHA1 signature support with the `private_key`
+  argument (@nathangoulding, #316).
+
+* `oauth2.0_token()` throws an error if it fails to get an access token (#250)
+--------------------------------------------------
+URL: https://github.com/happypeter/haoduoshipin/blob/695a028e29a9ffc5416f6c395614385f82fe0f48/264.md
+Snippet:
+
+以下是参考链接：
+
+- https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Private_key_signing.png/500px-Private_key_signing.png
+
+- https://www.youtube.com/watch?v=TmA2QWSLSPg&list=PLSNNzog5eydtwsdT__t5WtRgvpfMzpTc7
+
+--------------------------------------------------
+URL: https://github.com/jlusiardi/homekit_python/blob/b7d9fe730159ec90bf7a82010150d38112d4b1fc/homekit/crypto/srp.py
+Snippet:
+    @staticmethod
+    def generate_private_key():
+        """
+--------------------------------------------------
