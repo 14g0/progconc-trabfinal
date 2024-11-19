@@ -7,10 +7,14 @@ public class CredentialManager {
 
     public CredentialManager(List<String> tokens) {
         this.tokens = tokens;
+        System.out.println("[INFO] CredentialManager inicializado com " + tokens.size() + " tokens.");
     }
 
     public String getNextToken() {
+        String threadName = Thread.currentThread().getName();
         int index = currentIndex.getAndUpdate(i -> (i + 1) % tokens.size());
-        return tokens.get(index);
+        String token = tokens.get(index);
+        System.out.println("[INFO][" + threadName + "] Usando Token: " + index);
+        return token;
     }
 }
