@@ -1,0 +1,180 @@
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 122712ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 121642ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 121497ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 120161ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 68064ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 54463ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 60334ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 60122ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 65942ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 54439ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2823ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 58726ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 371805ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 357846ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 304880ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 365505ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 134161ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 171859ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 181962ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 181819ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 89029ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 98275ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 119980ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 120642ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 553946ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 540768ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 548378ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 548393ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 252415ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 296614ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 244759ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 303197ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139265ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 169884ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 182092ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 182556ms
