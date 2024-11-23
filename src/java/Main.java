@@ -1,3 +1,5 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
 import java.nio.file.Files;
@@ -84,6 +86,14 @@ public class Main {
             System.out.println("Número de dorks: " + dorkList.size());
             System.out.println("Número de tokens: " + tokens.size());
             System.out.println("Tempo de execução: " + (endTime - startTime) + "ms");
+
+            String csvLine = numberOfThreads + "," + dorkList.size() + "," + tokens.size() + "," + (endTime - startTime);
+
+            // Apende a linha CSV no arquivo de saída
+            try (BufferedWriter writer = new BufferedWriter(new FileWriter("testResults.csv", true))) {
+                writer.write(csvLine);
+                writer.newLine();
+            }
 
         } catch (IOException e) {
             System.err.println("[ERROR][Main] Erro ao ler arquivos: " + e.getMessage());
