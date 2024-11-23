@@ -1,6 +1,7 @@
-Resultados/
+Resultado_test.txt
 
 src/class/
 
 **/token*
-**/*.csv
+*.csv
+*.jar
