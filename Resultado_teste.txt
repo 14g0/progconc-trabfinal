@@ -1,0 +1,2700 @@
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127145ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 126541ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 125391ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 122700ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127326ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127724ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 122663ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 126071ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 123836ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 123633ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127813ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 123582ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 125054ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 126365ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 125630ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 63512ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65951ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 62264ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 63710ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 63732ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64290ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64891ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65342ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 62105ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66502ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 63209ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64832ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64996ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 62754ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 63094ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 15895ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 12833ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 9349ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 9832ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 9492ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 12065ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 11127ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 12800ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 10970ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 10081ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 9372ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 10906ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 12834ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 11240ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 13955ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 312942ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 312002ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 309521ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 310839ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 311433ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 311720ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 313380ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 311506ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 311426ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 308854ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 313963ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 309001ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 312580ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 311441ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 309889ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 135774ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 131331ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 134832ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 129431ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 131999ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 129625ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 131515ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 129546ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 133772ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 133137ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 133195ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 130978ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 132108ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 132107ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 131033ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 76865ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 72668ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 77559ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 76970ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 75333ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 74648ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 73192ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 75890ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 76510ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 77222ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 72303ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 79099ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 76117ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 73177ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 74082ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 502299ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 498380ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 498071ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 498664ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 499421ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 497997ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 499735ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 501480ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 498596ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 501249ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 501370ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 496639ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 498662ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 494133ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 497527ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 256183ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 250332ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 250507ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 253555ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 254436ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 255005ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 252303ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 253383ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 248134ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 251594ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 253972ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 257428ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 253622ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 249796ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 251361ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 137951ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139642ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 138398ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 138645ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 140888ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 138801ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 135815ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139268ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 134516ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 141738ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 140404ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 148122ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 142044ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 141388ms
+----------------------------------------
+Número de threads: 1
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 138946ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 129317ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127595ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 125323ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 122884ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 125420ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127014ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 129144ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 126581ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127139ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 122657ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 125725ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 128719ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127108ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127000ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127173ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66948ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 62123ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65507ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66080ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65799ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64612ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66214ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65235ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65346ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66222ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64256ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64424ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65562ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65255ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 63525ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3686ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3315ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4975ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2958ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4992ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3116ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2898ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3075ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4907ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4936ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2871ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4853ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4502ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2802ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3055ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 314514ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 314388ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 310436ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 315448ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 312654ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 313021ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 316241ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 319754ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 321213ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 312758ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 315293ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 318587ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 317801ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 315344ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 318647ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 130738ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 131596ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 127560ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 131049ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 126162ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 128188ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 126424ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 131199ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 128480ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 126420ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 128621ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 130352ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 132908ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 132552ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 129667ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 68356ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 67997ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 65803ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 66708ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 68835ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 66905ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 68760ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 66197ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 65729ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 66121ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 67850ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 66537ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 67823ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 66184ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 67441ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 513086ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 515546ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 511844ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 511043ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 513022ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 509079ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 512188ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 508131ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 518400ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 517932ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 516355ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 512233ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 521019ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 513118ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 514331ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 258329ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 259083ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 263382ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 260362ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 262513ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 258481ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 254723ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 259109ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 255440ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 257220ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 264712ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 262157ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 258214ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 266141ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 259728ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 136711ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 135920ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 135848ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139569ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 134310ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 134359ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 135537ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 130241ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 136361ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 132868ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 137030ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 135618ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 136580ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 133272ms
+----------------------------------------
+Número de threads: 5
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 132771ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 135375ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 129769ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 128427ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 131850ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 129028ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 128397ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 135251ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 131949ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 132081ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 130533ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 130251ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 131600ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 127983ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 125413ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 128071ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66729ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65783ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66610ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64373ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 67334ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65984ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65700ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64234ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66931ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 64580ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65871ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 62794ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 67702ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65605ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 68736ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 5373ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 9651ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3927ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 1701ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2103ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 5850ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4229ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3955ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3555ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3678ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2447ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2659ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3980ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 1904ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 6048ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 328572ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 337016ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 321917ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 327434ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 325714ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 325348ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 329317ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 335153ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 332368ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 334524ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 330871ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 330474ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 334624ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 329536ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 330770ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 135577ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 138773ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 138043ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 136211ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 133551ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 135351ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 139079ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 137730ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 134138ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 129732ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 132929ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 132292ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 136110ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 133731ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 132944ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 68848ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 72794ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 68462ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 71322ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 69436ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 73196ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 76902ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 71207ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 72542ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 70652ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 74880ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 69925ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 71542ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 69685ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 71718ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 537566ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 528129ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 522616ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 537349ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 541290ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 530645ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 547728ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 539178ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 543797ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 543607ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 548002ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 539174ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 555647ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 536772ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 526010ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 266046ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 262801ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 277252ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 270139ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 265998ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 271141ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 266184ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 270767ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 274506ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 269534ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 270985ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 272506ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 274026ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 273854ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 265630ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 142985ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139750ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 136798ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 136801ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 136717ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 142207ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 142463ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 140550ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139234ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139875ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 141618ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 142443ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 142332ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 140974ms
+----------------------------------------
+Número de threads: 10
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 135491ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 139908ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 138454ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 137474ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 137458ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 134301ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 140480ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 138657ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 135733ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 135980ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 142589ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 142917ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 142829ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 138409ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 136134ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 1
+Tempo de execução: 144615ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 74052ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 68808ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 66833ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 70136ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 65612ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 69980ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 70158ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 68643ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 68252ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 68870ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 69112ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 71391ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 71695ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 68569ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 2
+Tempo de execução: 70530ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 2046ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 5303ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3821ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 1460ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4098ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 1504ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3041ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3565ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3135ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3316ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 5847ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3428ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 3260ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 4550ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 20
+Número de tokens: 3
+Tempo de execução: 1640ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 346580ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 336454ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 331409ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 330344ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 344161ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 339633ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 343587ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 342147ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 343124ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 341669ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 337095ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 337025ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 342220ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 337527ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 1
+Tempo de execução: 345941ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 138223ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 127256ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 138940ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 141480ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 137993ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 136444ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 133098ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 135968ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 134075ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 138518ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 132297ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 139353ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 140622ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 139611ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 2
+Tempo de execução: 140150ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 74370ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 73595ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 68538ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 74819ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 69588ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 70212ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 75257ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 73762ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 70838ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 73500ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 73470ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 70795ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 72688ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 72417ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 50
+Número de tokens: 3
+Tempo de execução: 72396ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 557458ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 544833ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 560792ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 547864ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 560795ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 554643ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 554905ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 560225ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 554915ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 554359ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 553367ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 566339ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 558126ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 553715ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 1
+Tempo de execução: 560349ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 272931ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 284483ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 279091ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 269722ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 283807ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 281622ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 277421ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 294390ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 283227ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 285211ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 278086ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 276040ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 284893ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 284657ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 2
+Tempo de execução: 279325ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 136041ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 146372ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 148183ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 148111ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 144827ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 143515ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 140462ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 140542ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 146505ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 144877ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 145470ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139044ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 142826ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139975ms
+----------------------------------------
+Número de threads: 20
+Número de dorks: 80
+Número de tokens: 3
+Tempo de execução: 139783ms
